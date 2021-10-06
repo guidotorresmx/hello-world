@@ -1,0 +1,36 @@
+body {
+    display:grid;
+    place-content: center;
+    min-height:100vh;
+    margin: 0;
+    background-color:#eee;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+  }
+  
+  h1 {
+    color: #000;
+    margin: 0;
+    font-family: helvetica;
+    font-size: 4em;
+    line-height: .6;
+    text-align: center;
+    text-shadow: 
+  -0.35em -0.7em #111,
+  -0.70em -1.4em #222,
+  -1.05em -2.1em #333,
+  -1.40em -2.8em #444,
+  -1.75em -3.5em #555,
+  -2.10em -4.2em #666,
+  -2.45em -4.9em #777,
+  -0.35em 0.7em #111,
+  -0.70em 1.4em #222,
+  -1.05em 2.1em #222,
+  -1.40em 2.8em #333,
+  -1.75em 3.5em #444,
+  -2.10em 4.2em #555,
+  -2.45em 4.9em #666;    
+  }
+  
+  
